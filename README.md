@@ -1,4 +1,4 @@
-# Mocking Testing
+# Mocking Test Suite
 
 This is a test suite for testing different test cases using mocking techniques for the StudentProvider interface.
 
